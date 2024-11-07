@@ -1,0 +1,16 @@
+C:\Users\Alphredo\source\repos\upp3\upp3\bin\Debug\net8.0-windows\upp3.exe
+C:\Users\Alphredo\source\repos\upp3\upp3\bin\Debug\net8.0-windows\upp3.deps.json
+C:\Users\Alphredo\source\repos\upp3\upp3\bin\Debug\net8.0-windows\upp3.runtimeconfig.json
+C:\Users\Alphredo\source\repos\upp3\upp3\bin\Debug\net8.0-windows\upp3.dll
+C:\Users\Alphredo\source\repos\upp3\upp3\bin\Debug\net8.0-windows\upp3.pdb
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\upp3.Form1.resources
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\upp3.csproj.GenerateResource.cache
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\upp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\upp3.AssemblyInfoInputs.cache
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\upp3.AssemblyInfo.cs
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\upp3.csproj.CoreCompileInputs.cache
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\upp3.dll
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\refint\upp3.dll
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\upp3.pdb
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\upp3.genruntimeconfig.cache
+C:\Users\Alphredo\source\repos\upp3\upp3\obj\Debug\net8.0-windows\ref\upp3.dll
